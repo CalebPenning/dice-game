@@ -1,0 +1,26 @@
+.Die {
+    height: 3em;
+    width: 3em;
+    padding-top: 0.75em;
+    background-color: seagreen;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    border: 1px solid white;
+    margin-right: 0.5em;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.Dice {
+    border: 2px solid gray;
+    padding: 1em 0 2em 0;
+    text-align: center;
+    margin: 1em auto auto;
+    border-radius: 8px;
+    width: 40em;
+}
+
+button {
+    margin-top: 10px;
+}
